@@ -6,8 +6,8 @@
 
 ## Exercise 2 - Debugging
 
-<img src="/Day2/assets//1.2.gif" width=800px>
+<img src="/Day2/assets/2.2.gif" width=800px>
 
 ## Exercise 3 - Input
 
-<img src="/Day2/assets//1.3.gif" width=800px>
+<img src="/Day2/assets/2.3.gif" width=800px>
