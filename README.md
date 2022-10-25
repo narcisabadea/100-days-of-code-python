@@ -3,8 +3,8 @@
 
 ## Beginner 
 - [Day 1:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day1) Working with Variables in Python to Manage Data
-<!-- - [Day 2:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day2) Understanding Data Types and How to Manipulate Strings
-- [Day 3:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day3) Control Flow and Logical Operators
+- [Day 2:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day2) Understanding Data Types and How to Manipulate Strings
+<!-- - [Day 3:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day3) Control Flow and Logical Operators
 - [Day 4:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day4) Randomisation and Python Lists
 - [Day 5:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day5) Python Loops
 - [Day 6:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day6) Python Functions & Karel
