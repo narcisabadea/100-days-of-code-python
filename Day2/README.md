@@ -11,3 +11,5 @@
 ## Exercise 3 - Input
 
 <img src="/Day2/assets/2.3.gif" width=800px>
+
+## Exercise 4 - Tip calculator
