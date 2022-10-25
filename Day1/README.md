@@ -2,13 +2,12 @@
 
 ## Exercise 1 - Printing
 
-![printing](/Day1/assets//1.1.gif)
+<img src="/Day1/assets//1.1.gif" width=800px>
 
 ## Exercise 2 - Debugging
 
-![printing](/Day1/assets//1.2.gif)
+<img src="/Day1/assets//1.2.gif" width=800px>
 
 ## Exercise 3 - Input
 
-![printing](/Day1/assets//1.3.gif)
-
+<img src="/Day1/assets//1.3.gif" width=800px>
