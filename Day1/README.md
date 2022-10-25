@@ -11,3 +11,5 @@
 ## Exercise 3 - Input
 
 <img src="/Day1/assets/1.3.gif" width=800px>
+
+## Exercise 4 - Band name generator
