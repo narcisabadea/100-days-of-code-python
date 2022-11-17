@@ -19,3 +19,5 @@
 ## Exercise 3 - Love calculator
 
 <img src="/Day3/assets/3.5.gif" width=800px>
+
+## Project - Tresure hunt

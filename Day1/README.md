@@ -12,4 +12,4 @@
 
 <img src="/Day1/assets/1.3.gif" width=800px>
 
-## Exercise 4 - Band name generator
+## Project - Band name generator
