@@ -25,6 +25,8 @@ def reset_timer():
     canvas.itemconfig(timer_text, text="00:00")
     timer_label.config(text="Timer")
     check_label.config(text="✔")
+    global repetitions
+    repetitions = 0
 
 
 def start_timer():
