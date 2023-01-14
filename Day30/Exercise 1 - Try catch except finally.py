@@ -23,6 +23,19 @@
 
 try:
     file = open("a_file.txt")
-except:
+    a_dict = {"key": "value"}
+    # print(a_dict["non_existing_key"])
+
+except FileNotFoundError:
     file = open("a_file.txt", "w")
     file.write("Something")
+except KeyError as error_message:
+    print(f"That key {error_message} not exist")
+else:
+    content = file.read()
+    print(content)
+finally:
+    file.close()
+    print("File was closed")
+    # raise = raise our own exceptions
+    raise TypeError("This is an error that I made up")
