@@ -37,8 +37,6 @@
 - [Day 30:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day31) Flash Card App Capstone Project
 
-<!----
-
 ## Intermediate+
 
 - [Day 32:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
@@ -69,6 +67,7 @@
 - [Day 57:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day57) Templating with Jinja in Flask Applications
 - [Day 58:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day58) Web Foundation Boostrap
 
+<!----
 ## Advanced
 
 - [Day 59:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day59) Blog Capstone Project Part 2 - Adding Styling
