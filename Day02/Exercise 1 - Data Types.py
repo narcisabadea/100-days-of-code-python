@@ -1,3 +1,14 @@
+# Data types
+
+# int
+# str
+# float
+# bool
+
+# Interchange between data types with casting
+# Data types are flexible - dinamic typic (create a var and later change it's type)
+
+
 # Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
 
 # Example Input
