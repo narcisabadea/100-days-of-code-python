@@ -39,33 +39,33 @@
 
 ## Intermediate+
 
-- [Day 32:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
-- [Day 33:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
-- [Day 34:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day34) API Practice - Creating a GUI Quiz App
-- [Day 35:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day35) Keys, Authentication & Environment Variables - Telegram Rain Notifier
-- [Day 36:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day36) Stock Trading News Alert Project
-- [Day 37:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day37) Habit Tracking Project: API Post Requests & Headers
-- [Day 38:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day38) Workout Tracking Using Google Sheets
-- [Day 39:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day39) Capstone Part 1: Flight Deal Finder
-- [Day 40:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day40) Capstone Part 2: Flight Club
-- [Day 41:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day41) Introduction to HTML
-- [Day 42:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day42) Intermediate HTML
-- [Day 43:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day43) Introduction to CSS
-- [Day 44:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day44) Intermediate CSS
-- [Day 45:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day45) Web Scraping with Beautiful Soup
-- [Day 46:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day46) Create a Spotify Playlist Using The Musical Time Machine
-- [Day 47:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day47) Create an Automated Amazon Price Tracker
-- [Day 48:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day48) Selenium Webdriver Browser and Game Playing Bot
-- [Day 49:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day49) Automating Job Applications on LinkedIn
-- [Day 50:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day50) Auto Tinder Swiping Bot
-- [Day 51:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day51) Internet Speed Twitter Complaint Bot
-- [Day 52:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day52) Instagram Follower Bot
-- [Day 53:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day53) Web Scraping Capstone - Data Entry Job Automation
-- [Day 54:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day54) Introduction to Web Development with Flask
-- [Day 55:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day55) HTML & URL Parsing in Flask and the Higher Lower Game
-- [Day 56:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day56) Rendering HTML/Static Files and Using Website Templates
-- [Day 57:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day57) Templating with Jinja in Flask Applications
-- [Day 58:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/day58) Web Foundation Boostrap
+- [Day 32:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- [Day 33:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day33) API Endpoints & API Parameters - ISS Overhead Notifier
+- [Day 34:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day34) API Practice - Creating a GUI Quiz App
+- [Day 35:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day35) Keys, Authentication & Environment Variables - Telegram Rain Notifier
+- [Day 36:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day36) Stock Trading News Alert Project
+- [Day 37:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day37) Habit Tracking Project: API Post Requests & Headers
+- [Day 38:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day38) Workout Tracking Using Google Sheets
+- [Day 39:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day39+Day40) Capstone Part 1: Flight Deal Finder
+- [Day 40:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day39+Day40) Capstone Part 2: Flight Club
+- [Day 41:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day41) Introduction to HTML
+- [Day 42:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day42) Intermediate HTML
+- [Day 43:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day43) Introduction to CSS
+- [Day 44:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day44) Intermediate CSS
+- [Day 45:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day45) Web Scraping with Beautiful Soup
+- [Day 46:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day46) Create a Spotify Playlist Using The Musical Time Machine
+- [Day 47:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day47) Create an Automated Amazon Price Tracker
+- [Day 48:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day48) Selenium Webdriver Browser and Game Playing Bot
+- [Day 49:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day49) Automating Job Applications on LinkedIn
+- [Day 50:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day50) Auto Tinder Swiping Bot
+- [Day 51:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day51) Internet Speed Twitter Complaint Bot
+- [Day 52:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day52) Instagram Follower Bot
+- [Day 53:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day53) Web Scraping Capstone - Data Entry Job Automation
+- [Day 54:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day54) Introduction to Web Development with Flask
+- [Day 55:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day55) HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day56) Rendering HTML/Static Files and Using Website Templates
+- [Day 57:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day57) Templating with Jinja in Flask Applications
+- [Day 58:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day58) Web Foundation Boostrap
 
 <!----
 ## Advanced
