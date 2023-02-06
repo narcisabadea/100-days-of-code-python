@@ -50,8 +50,8 @@
 - [Day 40:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day39+Day40) Capstone Part 2: Flight Club
 - [Day 41:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day41) Introduction to HTML
 - [Day 42:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day42) Intermediate HTML
-- [Day 43:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day43) Introduction to CSS
-- [Day 44:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day44) Intermediate CSS
+- [Day 43:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day43+Day44) Introduction to CSS
+- [Day 44:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day43+Day44) Intermediate CSS
 - [Day 45:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day45) Web Scraping with Beautiful Soup
 - [Day 46:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day46) Create a Spotify Playlist Using The Musical Time Machine
 - [Day 47:](https://github.com/narcisabadea/100-days-of-code-python/tree/main/Day47) Create an Automated Amazon Price Tracker
