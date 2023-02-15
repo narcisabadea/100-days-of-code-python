@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Name card</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="static/assets/favicon.ico" />
+    <link rel="stylesheet" href="static/assets/css/main.css" />
+    <noscript
+      ><link rel="stylesheet" href="static/assets/css/noscript.css"
+    /></noscript>
+  </head>
+  <body class="is-loading">
+    <div id="wrapper">
+      <section id="main">
+        <header>
+          <span class="avatar"
+            ><img src="static/avatar.jpg" alt="" width="150"
+          /></span>
+          <h1>Narcisa Badea</h1>
+          <p>Software developer</p>
+        </header>
+        <footer>
+          <ul class="icons">
+            <li>
+              <a href="https://github.com/narcisabadea" class="fa-github"
+                >Github</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.linkedin.com/in/narcisabadea/"
+                class="fa-linkedin"
+                >LinkedIn</a
+              >
+            </li>
+            <li>
+              <a href="https://www.facebook.com/narcy611/" class="fa-facebook"
+                >Facebook</a
+              >
+            </li>
+          </ul>
+        </footer>
+      </section>
+
+      <footer id="footer">
+        <ul class="copyright">
+          <li>&copy; Narcisa Badea</li>
+          <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        </ul>
+      </footer>
+    </div>
+
+    <script>
+      if ("addEventListener" in window) {
+        window.addEventListener("load", function () {
+          document.body.className = document.body.className.replace(
+            /\bis-loading\b/,
+            ""
+          );
+        });
+        document.body.className += navigator.userAgent.match(/(MSIE|rv:11\.0)/)
+          ? " is-ie"
+          : "";
+      }
+    </script>
+  </body>
+</html>
